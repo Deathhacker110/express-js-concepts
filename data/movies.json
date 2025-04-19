@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "moviename": "Inception",
+    "releasedate": "2010-07-16",
+    "duration": "148 min"
+  },
+  {
+    "id": "3",
+    "moviename": "Interstellar",
+    "releasedate": "2014-11-07",
+    "duration": "169 min"
+  },
+  {
+    "id": "4",
+    "moviename": "Parasite",
+    "releasedate": "2019-05-30",
+    "duration": "140 min"
+  },
+  {
+    "id": "5",
+    "moviename": "return of the dragon",
+    "releasedate": "19-12-2022",
+    "duration": "120 min"
+  }
+]

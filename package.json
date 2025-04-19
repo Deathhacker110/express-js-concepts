@@ -1,0 +1,25 @@
+{
+  "name": "xpress-concepts",
+  "version": "1.0.0",
+  "description": "learning express js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "deadman",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "morgan": "^1.10.0",
+    "node-mailer": "^0.1.1",
+    "nodemailer": "^6.10.0",
+    "validator": "^13.12.0"
+  }
+}
